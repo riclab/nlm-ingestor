@@ -9,9 +9,9 @@ nltk
 python-magic
 numpy
 tqdm
-symspellpy==6.7.0
-pandas==1.2.4
-mistune==2.0.3
-lxml==4.9.1
+symspellpy
+pandas
+mistune
+lxml
 unidecode
 git+https://github.com/riclab/nlm-utils.git
