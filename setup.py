@@ -28,8 +28,7 @@ setup(
         "pandas",
         "mistune",
         "lxml",
-        "unidecode",
-        "git+https://github.com/riclab/nlm-utils.git"        
+        "unidecode"
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
