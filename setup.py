@@ -29,7 +29,7 @@ setup(
         "mistune",
         "lxml",
         "unidecode",
-        "ngit+https://github.com/riclab/nlm-utils.git"        
+        "git+https://github.com/riclab/nlm-utils.git"        
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
