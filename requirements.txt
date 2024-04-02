@@ -14,4 +14,4 @@ pandas
 mistune
 lxml
 unidecode
-git+https://github.com/riclab/nlm-utils.git@a72864bd9f0689693215b1acfd4a00d6052a3bed
+git+https://github.com/riclab/nlm-utils.git
